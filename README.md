@@ -7,11 +7,17 @@ This complete repo is based on python only.
 technical_training/
 
 │── assignment1.py/
+
 │── assignment2.py/
+
 │── assignment3.py/
+
 │── assignment4.py/
+
 │── assignment6.py/
+
 │── assignment7.py/
+
 │── passwords.txt/
 
 ## Purpose
