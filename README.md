@@ -22,7 +22,9 @@ technical_training/
 
 ## Purpose
 -Practice programming concepts regularly.
+
 -strengthen problem solving skills.
+
 -Track my progress overtime.
 
 This repository will be updated regularly as i continue my technical training.
